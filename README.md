@@ -13,3 +13,7 @@ A list of resources to help with accessibility
 * [A review of the million most popular website's accessibility issues](https://webaim.org/projects/million/)
 * [If you need help making a case to your boss, you can start here](https://www.w3.org/WAI/business-case/)
 * [... or here](https://qz.com/1407450/theres-already-a-blueprint-for-a-more-accessible-internet/)
+
+## Presentation
+
+If you'd like to view my presentation (given at CoderCamp Hamilton on March 13, 2019), I've [uploaded the Keynote file](https://github.com/mattgrande/a11y/blob/master/a11y.key). If you can't open the Keynote file, I've also [made it available on Google Drive](https://drive.google.com/file/d/14VKN8P9LaqkKKIl8QziXsGLk78EJR-ZW/view?usp=sharing).
